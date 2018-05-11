@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/levensailor/dime-get-log/issues"
   },
-  "homepage": "https://github.com/levensailor/dime-get-log#readme"
+  "homepage": "https://github.com/levensailor/dime-get-log#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
 }
