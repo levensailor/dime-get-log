@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/levensailor/dime-get-log#readme",
   "dependencies": {
+    "busboy": "^0.2.14",
     "request": "^2.85.0"
   }
 }
